@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>React Demo App</h1>
+      <h1>React Demo App By Suhas</h1>
       <p className="subtitle">A basic starter project to show React in action</p>
 
       <div className="card">
